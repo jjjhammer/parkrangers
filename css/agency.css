@@ -7,6 +7,7 @@
 body {
     overflow-x: hidden;
     font-family: "lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+
 }
 
 
@@ -17,6 +18,8 @@ body {
 
 .text-primary {
     color: #999;
+    
+
 }
 
 p {
@@ -81,7 +84,7 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     word-spacing: 0em;
-
+        color: #fff;
 }
 
 h4.stories {
@@ -262,8 +265,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #4CAF50;
-    background-color: #4CAF50;
+    border-color: #fff;
+    background-color: #fff;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -355,6 +358,7 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+            color: #fff;
 }
 
 
@@ -364,6 +368,7 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+            text-shadow: 0px 0px 20px #000;
  
 }
 
@@ -374,6 +379,8 @@ header .intro-text .intro-heading {
     font-size: 40px;
     font-weight: 700;
     line-height: 50px;
+            text-shadow: 0px 0px 20px #000;
+
 }
 
 header .thankyou-text {
