@@ -84,7 +84,6 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     word-spacing: 0em;
-        color: #fff;
 }
 
 h4.stories {
@@ -275,7 +274,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #4CAF50;
+    background-color: #fff;
 }
 
 .navbar-default .nav li a {
