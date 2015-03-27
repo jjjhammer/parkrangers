@@ -284,6 +284,8 @@ fieldset[disabled] .btn-xl.active {
     letter-spacing: 1px;
     color: #333;
     padding-right: 35px;
+    padding-top: 20px;
+    padding-bottom: 0px;
     /*text-shadow: 0 0 40px none;
 */
 }
